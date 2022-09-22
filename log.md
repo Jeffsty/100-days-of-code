@@ -18,13 +18,13 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
+-->
 
-### Day 1: June 27, Monday
+### Day 1: Friday, 22nd September 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I went through pages 1 - 6 of The Odin Project's 'HTML Foundations'
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** None of this is new to me so far but I wanted to go through TOP properly, step by step.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+N/A
