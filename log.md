@@ -20,6 +20,24 @@
 
 -->
 
+### Day 4: Sunday, 25th September 2022
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+-
+
+### Day 3: Saturday, 24th September 2022
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+-
+
 ### Day 2: Friday, 23rd September 2022
 
 **Today's Progress**: -
