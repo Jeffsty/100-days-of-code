@@ -20,11 +20,20 @@
 
 -->
 
-### Day 1: Friday, 22nd September 2022
+### Day 2: Friday, 23rd September 2022
+
+**Today's Progress**: -
+
+**Thoughts**: -
+
+**Link(s) to work**:
+-
+
+### Day 1: Thursday, 22nd September 2022
 
 **Today's Progress**: I went through pages 1 - 6 of The Odin Project's 'HTML Foundations'
 
-**Thoughts** None of this is new to me so far but I wanted to go through TOP properly, step by step.
+**Thoughts**: None of this is new to me so far but I wanted to go through TOP properly, step by step.
 
-**Link(s) to work**
+**Link(s) to work**:
 N/A
